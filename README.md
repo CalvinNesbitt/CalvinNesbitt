@@ -5,7 +5,7 @@ I'm Calvin, a Research Engineer at [Transition Zero](https://www.transitionzero.
 I'm broadly interested in meteorology/climate science, renewable energy and nonlinear dynamical systems. I enjoy working on problems in these domains using a mixture of mathematical modelling, data analysis and software development. Feel free to reach out if you're interested in collaborating on a project or just want to chat about any of these topics!
 
 - 🔭 I’m currently working on ...
-    -  [Model Builder](https://www.trannsitionzero.org/insights/introducing-model-builder-beta) - an accessible and auditable modelling tool and data platform for answering questions about the energy future
+    -  [Model Builder](https://www.transitionzero.org/insights/introducing-model-builder-beta) - an accessible and auditable modelling tool and data platform for answering questions about the energy future
 
     - [ODE Lab](https://github.com/CalvinNesbitt/ode_lab) - a Python package for doing dynamical systems analysis (e.g. computing Lyapunov exponents/CLVS, bifurcation analysis) of ordinary differential equations using a mixture of SciPy and xarray. This is ultimately aimed at making my PhD work more reproducible and accessible to others.
 
