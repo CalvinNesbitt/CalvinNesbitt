@@ -16,7 +16,7 @@ I'm broadly interested in meteorology/climate science, renewable energy and nonl
 
 - 💬 Ask me about ...
     - The work we do at Transition Zero
-    - My PhD work: tipping points, nonlinear dynamics, transient chaos, noise-induced transitions, Lyapunov exponents, climate science
+    - My PhD work: tipping points and predictability in meteorology/climate science
 
 - 😄 Pronouns...
     - He/Him
