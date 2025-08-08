@@ -5,7 +5,7 @@ I'm Calvin, a Research Engineer at [Transition Zero](https://www.transitionzero.
 I'm broadly interested in meteorology/climate science, renewable energy and nonlinear dynamical systems. I enjoy working on problems in these domains using a mixture of mathematical modelling, data analysis and software development.
 
 - 🔭 I’m currently working on ...
-    -  [Model Builder](https://www.transitionzero.org/insights/introducing-model-builder-beta) - an accessible and auditable modelling tool and data platform for answering questions about the energy future
+    -  [Scenario Builder]([https://www.transitionzero.org/insights/introducing-model-builder-beta](https://www.transitionzero.org/products/scenario-builder)) which lets you build and run complex electricity system models in minutes, no code required
 
 - 🌱 I’m currently learning ...
     - Energy systems modelling
